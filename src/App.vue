@@ -109,6 +109,10 @@
   max-width: 400px;
   padding: 20px;
   margin: 0 auto;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .line-through {
