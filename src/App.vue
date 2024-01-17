@@ -1,5 +1,5 @@
 <template>
-  <div class="baba-todo">
+  <div class="good-todo">
     <div class="title has-text-centered">
       Todo
     </div>
@@ -105,7 +105,7 @@
 
 <style>
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";;
-.baba-todo {
+.good-todo {
   max-width: 400px;
   padding: 20px;
   margin: 0 auto;
