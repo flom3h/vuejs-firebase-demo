@@ -105,11 +105,10 @@
 
 <style>
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";;
-.good-todo {
+.baba-todo {
+  max-width: 400px;
   padding: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 .line-through {
